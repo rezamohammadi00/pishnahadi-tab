@@ -1,0 +1,28 @@
+
+table{
+  font-weight: bold !important;
+}
+
+
+table{
+  border-bottom: 3px solid #ddd !important;
+  border-top: 1px solid #ddd !important ;
+}
+
+th, td {
+  border-bottom: 3px solid #ddd !important;
+}
+
+.level-red{
+  background-color: #E4B493;
+}
+
+.level-green{
+  background-color: #AAC298
+  ;
+}
+
+.level-yellow{
+  background-color: #F9F28E;
+}
+
